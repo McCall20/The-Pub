@@ -13,7 +13,6 @@ a, a:visited {
   background-color: #313131;
   display: flex;
   font-family: 'Lobster Two', cursive;
-
 }
 
 .gold-box {
@@ -214,9 +213,3 @@ a, a:visited {
 }
 
 /* Desktop beggining */
-
-@media only screen and (min-width: 961px){
-  .page {
-
-  }
-}
